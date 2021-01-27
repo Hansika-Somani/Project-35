@@ -9,7 +9,7 @@ function setup() {
   createCanvas(1500,700);
 
    database=firebase.database();
- balloon= createSprite(400, 200, 50, 50);
+ balloon= createSprite(200, 200, 50, 50);
  balloon.addImage(balloon_123)
  balloon.scale=0.6
 
