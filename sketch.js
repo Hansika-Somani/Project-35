@@ -11,7 +11,7 @@ function setup() {
    database=firebase.database();
  balloon= createSprite(200, 200, 50, 50);
  balloon.addImage(balloon_123)
- balloon.scale=0.6
+ balloon.scale=0.5
 
 
 
